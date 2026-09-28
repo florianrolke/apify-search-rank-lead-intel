@@ -1,3 +1,5 @@
+> **This repository has moved.** It now lives in the folder [`apify-search-rank-lead-intel`](https://github.com/florianrolke/community-resources/tree/main/apify-search-rank-lead-intel) of [florianrolke/community-resources](https://github.com/florianrolke/community-resources), together with all of Florian Rolke's community resources. This copy is archived (read-only) and stays online so existing links keep working. New fixes and updates happen in community-resources.
+
 # Apify Search Rank Lead Intel
 
 Generic, industry-agnostic workflow for reverse-engineering which companies show up in local search rankings, preserving query/rank metadata, and turning the ranked companies into enrichment queues.
